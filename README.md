@@ -1,2 +1,2 @@
 # SPMDemo
-Swift Package Manager Demo Project with Swagger OpenAPI codegen library
+Swift Package Manager Demo Project with Swagger OpenAPI Codegen library
